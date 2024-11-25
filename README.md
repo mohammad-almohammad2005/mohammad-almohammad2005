@@ -11,4 +11,3 @@ My name mohammad but you can call me Momo .
 - ✉️:mohammad.almohammad@laplateforme.io
 
 
-https://github.com/anuraghazra/github-readme-stats
